@@ -1,4 +1,4 @@
-# CMAs Samples
+# Samples of CMAs 
 Here we have some samples of each type of the introduced CMAs:
 
 Note:

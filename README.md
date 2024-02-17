@@ -1,5 +1,5 @@
 # Samples of CMAs 
-Here we have some samples of each type of the introduced CMAs:
+IN this repository we have some samples of each type of the introduced CMAs:
 
 Note:
 We have two types of datasets: before the launch of CMAs and after the launch of CMAs.
